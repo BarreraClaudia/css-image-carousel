@@ -2,6 +2,9 @@
 
 A responsive image carousel.
 
+> [!NOTE]
+> As of 01/02/2026 these new CSS features are not supported by Safari or Firefox. For a carousel compatible with those browsers, check out this [other repo](https://github.com/BarreraClaudia/image-carousel).
+
 <img src="./assets/imgs/screenshot.png">
 
 ## Tech Stack
